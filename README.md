@@ -1,2 +1,3 @@
-# pdfnamer
-You can rename the pdf file using a field in the pdf file and write it to another folder.
+# pdfnamer - pdfnamechanger
+
+You can save a new named copy of your pdf file in another folder by using a specific area on a specific page in your pdf files.
