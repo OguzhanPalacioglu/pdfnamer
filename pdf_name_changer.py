@@ -2,7 +2,7 @@ import PyPDF2
 import os
 
 # PDF file path
-pdf_folder = "Your File Yath"
+pdf_folder = "Your File Path"
 #pdf_folder = os.path.abspath(os.getcwd())
 print(pdf_folder)
 # Read Pdf Files
